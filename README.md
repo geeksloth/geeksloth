@@ -165,10 +165,33 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 ---
 
-## 📡 Links
+## 📡 Contact & Social Platforms
 
-📺 [YouTube – @geeksloth](https://www.youtube.com/@geeksloth)
-
+<p align="left">
+  <a href="https://github.com/geeksloth" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@geeksloth" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://shopee.co.th/geeksloth" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopee_logo.svg" alt="Shopee" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://line.me/R/ti/p/@952whtrd" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="LINE Official" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/GeekSloth" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" height="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="http://geekslothmgzrh2sie5hvgp45uvjkylid3yyyj245zpmxf6h3r7pk3id.onion" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg" alt="Darkweb (Tor)" height="60" />
+  </a>
+</p>
 ---
 
 > ⚡ *"Precision, security, and intelligence—designed at the root signal and deployed across the edge."*
