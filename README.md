@@ -45,9 +45,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Draw.io-Diagram-FF9900?style=flat-square&logo=diagrams.net&logoColor=white" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=2IZ5DQ_dYxM" target="_blank"><img src="https://img.youtube.com/vi/2IZ5DQ_dYxM/mqdefault.jpg" alt="AI ตรวจโรคมะเร็งท่อน้ำดี | Periductal Fibrosis Analysis System" width="250"/></a>
-<a href="https://www.youtube.com/watch?v=z3PGISZgiW0" target="_blank"><img src="https://img.youtube.com/vi/z3PGISZgiW0/mqdefault.jpg" alt="พล็อตกราฟสวย ๆ ด้วย Matplotlib | Python 3 Visualization Library" width="250"/></a>
-<a href="https://www.youtube.com/watch?v=4J0Wpf-onjo" target="_blank"><img src="https://img.youtube.com/vi/4J0Wpf-onjo/mqdefault.jpg" alt="เริ่มต้นใช้งานสโคป Hantek 6022BE" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=2IZ5DQ_dYxM" target="_blank"><img src="https://img.youtube.com/vi/2IZ5DQ_dYxM/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=z3PGISZgiW0" target="_blank"><img src="https://img.youtube.com/vi/z3PGISZgiW0/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=4J0Wpf-onjo" target="_blank"><img src="https://img.youtube.com/vi/4J0Wpf-onjo/mqdefault.jpg" alt="" width="250"/></a>
 ---
 
 ### 🤖 AI Engineer
@@ -74,9 +74,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Anaconda-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
 </p>
 
-[![YouTube Video J5u8zVMiO8E](https://img.youtube.com/vi/J5u8zVMiO8E/mqdefault.jpg)](https://www.youtube.com/watch?v=J5u8zVMiO8E)
-[![YouTube Video gEOy8EPZuKQ](https://img.youtube.com/vi/gEOy8EPZuKQ/mqdefault.jpg)](https://www.youtube.com/watch?v=gEOy8EPZuKQ)
-[![YouTube Video cD5Y64XkIc4](https://img.youtube.com/vi/cD5Y64XkIc4/mqdefault.jpg)](https://www.youtube.com/watch?v=cD5Y64XkIc4)
+<a href="https://www.youtube.com/watch?v=J5u8zVMiO8E" target="_blank"><img src="https://img.youtube.com/vi/J5u8zVMiO8E/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=gEOy8EPZuKQ" target="_blank"><img src="https://img.youtube.com/vi/gEOy8EPZuKQ/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=cD5Y64XkIc4" target="_blank"><img src="https://img.youtube.com/vi/cD5Y64XkIc4/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
 
@@ -105,10 +105,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/cPanel-Hosting-orange?style=flat-square&logo=cpanel&logoColor=white" />
 </p>
 
-[![YouTube Video Qfv3fxJsK_0](https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg)](https://www.youtube.com/watch?v=Qfv3fxJsK_0)
-[![YouTube Video 5RyUPZGETeg](https://img.youtube.com/vi/5RyUPZGETeg/mqdefault.jpg)](https://www.youtube.com/watch?v=5RyUPZGETeg)
-[![YouTube Video BgejaZPU6dA](https://img.youtube.com/vi/BgejaZPU6dA/mqdefault.jpg)](https://www.youtube.com/watch?v=BgejaZPU6dA)
-
+<a href="https://www.youtube.com/watch?v=Qfv3fxJsK_0" target="_blank"><img src="https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=5RyUPZGETeg" target="_blank"><img src="https://img.youtube.com/vi/5RyUPZGETeg/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=BgejaZPU6dA" target="_blank"><img src="https://img.youtube.com/vi/cD5Y64XkIc4/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
 
@@ -131,9 +130,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/KiCAD-PCB-blue?style=flat-square" />
 </p>
 
-[![YouTube Video xxBklDEj95M](https://img.youtube.com/vi/xxBklDEj95M/mqdefault.jpg)](https://www.youtube.com/watch?v=xxBklDEj95M)
-[![YouTube Video LcyshfnrboA](https://img.youtube.com/vi/LcyshfnrboA/mqdefault.jpg)](https://www.youtube.com/watch?v=LcyshfnrboA)
-[![YouTube Video k2Xpjv19_mk](https://img.youtube.com/vi/k2Xpjv19_mk/mqdefault.jpg)](https://www.youtube.com/watch?v=k2Xpjv19_mk)
+<a href="https://www.youtube.com/watch?v=xxBklDEj95M" target="_blank"><img src="https://img.youtube.com/vi/xxBklDEj95M/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=LcyshfnrboA" target="_blank"><img src="https://img.youtube.com/vi/LcyshfnrboA/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=k2Xpjv19_mk" target="_blank"><img src="https://img.youtube.com/vi/k2Xpjv19_mk/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
 
@@ -160,10 +159,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/HomeAssistant-Automation-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
 </p>
 
-[![YouTube Video EcXLVB0F_4M](https://img.youtube.com/vi/EcXLVB0F_4M/default.jpg)](https://www.youtube.com/watch?v=EcXLVB0F_4M)
-[![YouTube Video Ob8XsIZZwGw](https://img.youtube.com/vi/Ob8XsIZZwGw/default.jpg)](https://www.youtube.com/watch?v=Ob8XsIZZwGw)
-[![YouTube Video Fgj1y2viBww]( https://i.ytimg.com/an_webp/k6g9q4OOsjw/mqdefault_6s.webp?du=3000&sqp=COCHmMQG&rs=AOn4CLDVPTqZAaAGOd02jc6m-PXiGHryVg)](https://www.youtube.com/watch?v=Fgj1y2viBww)
-
+<a href="https://www.youtube.com/watch?v=EcXLVB0F_4M" target="_blank"><img src="https://img.youtube.com/vi/EcXLVB0F_4M/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=Ob8XsIZZwGw" target="_blank"><img src="https://img.youtube.com/vi/Ob8XsIZZwGw/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=Fgj1y2viBww" target="_blank"><img src="https://img.youtube.com/vi/Fgj1y2viBww/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
 
