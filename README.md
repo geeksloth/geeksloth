@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Python-Deep%20Tech-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-Jetson-green?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Research%20Hub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Research%20Hub-purple?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
