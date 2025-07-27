@@ -48,6 +48,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 <a href="https://www.youtube.com/watch?v=2IZ5DQ_dYxM" target="_blank"><img src="https://img.youtube.com/vi/2IZ5DQ_dYxM/mqdefault.jpg" alt="" width="250"/></a>
 <a href="https://www.youtube.com/watch?v=z3PGISZgiW0" target="_blank"><img src="https://img.youtube.com/vi/z3PGISZgiW0/mqdefault.jpg" alt="" width="250"/></a>
 <a href="https://www.youtube.com/watch?v=4J0Wpf-onjo" target="_blank"><img src="https://img.youtube.com/vi/4J0Wpf-onjo/mqdefault.jpg" alt="" width="250"/></a>
+
 ---
 
 ### 🤖 AI Engineer
@@ -165,7 +166,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 ---
 
-## 📡 Contact & Social Platforms
+## ✉️ Contact & Social Platforms
 
 > ⚡ *"Precision, security, and intelligence—designed at the root signal and deployed across the edge."*
 
@@ -194,11 +195,11 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg" alt="Darkweb (Tor)" height="60" />
   </a>
 </p>
----
-> 
 
-## Some aspects of life
-> ⚡ *"Gaming, Review, Podcast, Philosophy, Meditation, Knowledge Sharing, And so on..."*
+---
+
+## 🌿 Some aspects of life
+> *"Gaming, Review, Podcast, Philosophy, Meditation, Knowledge Sharing, And so on..."*
 
 <a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s" target="_blank"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="" width="250"/></a>
 <a href="https://www.youtube.com/watch?v=JlHysbqlGp8" target="_blank"><img src="https://img.youtube.com/vi/JlHysbqlGp8/mqdefault.jpg" alt="" width="250"/></a>
