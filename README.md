@@ -167,6 +167,8 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 ## 📡 Contact & Social Platforms
 
+> ⚡ *"Precision, security, and intelligence—designed at the root signal and deployed across the edge."*
+
 <p align="left">
   <a href="https://github.com/geeksloth" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="60" />
@@ -193,5 +195,11 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   </a>
 </p>
 ---
+> 
 
-> ⚡ *"Precision, security, and intelligence—designed at the root signal and deployed across the edge."*
+## Some aspects of life
+> ⚡ *"Gaming, Review, Podcast, Philosophy, Meditation, Knowledge Sharing, And so on..."*
+
+<a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s" target="_blank"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=JlHysbqlGp8" target="_blank"><img src="https://img.youtube.com/vi/JlHysbqlGp8/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=kmhRIhEZbWo" target="_blank"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="" width="250"/></a>
