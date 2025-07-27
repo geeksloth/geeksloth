@@ -107,7 +107,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 <a href="https://www.youtube.com/watch?v=Qfv3fxJsK_0" target="_blank"><img src="https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg" alt="" width="250"/></a>
 <a href="https://www.youtube.com/watch?v=5RyUPZGETeg" target="_blank"><img src="https://img.youtube.com/vi/5RyUPZGETeg/mqdefault.jpg" alt="" width="250"/></a>
-<a href="https://www.youtube.com/watch?v=BgejaZPU6dA" target="_blank"><img src="https://img.youtube.com/vi/cD5Y64XkIc4/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=BgejaZPU6dA" target="_blank"><img src="https://img.youtube.com/vi/BgejaZPU6dA/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
 
@@ -159,9 +159,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/HomeAssistant-Automation-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=EcXLVB0F_4M" target="_blank"><img src="https://img.youtube.com/vi/EcXLVB0F_4M/mqdefault.jpg" alt="" width="250"/></a>
 <a href="https://www.youtube.com/watch?v=Ob8XsIZZwGw" target="_blank"><img src="https://img.youtube.com/vi/Ob8XsIZZwGw/mqdefault.jpg" alt="" width="250"/></a>
 <a href="https://www.youtube.com/watch?v=Fgj1y2viBww" target="_blank"><img src="https://img.youtube.com/vi/Fgj1y2viBww/mqdefault.jpg" alt="" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=EcXLVB0F_4M" target="_blank"><img src="https://img.youtube.com/vi/EcXLVB0F_4M/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
 
