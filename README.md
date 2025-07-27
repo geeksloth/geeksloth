@@ -199,6 +199,3 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg" alt="Darkweb (Tor)" height="60" />
   </a>
 </p>
-
----
-
