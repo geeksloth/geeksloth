@@ -45,6 +45,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Draw.io-Diagram-FF9900?style=flat-square&logo=diagrams.net&logoColor=white" />
 </p>
 
+<a href="https://www.youtube.com/watch?v=2IZ5DQ_dYxM" target="_blank"><img src="https://img.youtube.com/vi/2IZ5DQ_dYxM/mqdefault.jpg" alt="AI ตรวจโรคมะเร็งท่อน้ำดี | Periductal Fibrosis Analysis System" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=z3PGISZgiW0" target="_blank"><img src="https://img.youtube.com/vi/z3PGISZgiW0/mqdefault.jpg" alt="พล็อตกราฟสวย ๆ ด้วย Matplotlib | Python 3 Visualization Library" width="250"/></a>
+<a href="https://www.youtube.com/watch?v=4J0Wpf-onjo" target="_blank"><img src="https://img.youtube.com/vi/4J0Wpf-onjo/mqdefault.jpg" alt="เริ่มต้นใช้งานสโคป Hantek 6022BE" width="250"/></a>
 ---
 
 ### 🤖 AI Engineer
@@ -157,9 +160,10 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/HomeAssistant-Automation-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
 </p>
 
-[![YouTube Video EcXLVB0F_4M](https://img.youtube.com/vi/EcXLVB0F_4M/mqdefault.jpg)](https://www.youtube.com/watch?v=EcXLVB0F_4M)
-[![YouTube Video Ob8XsIZZwGw](https://img.youtube.com/vi/Ob8XsIZZwGw/mqdefault.jpg)](https://www.youtube.com/watch?v=Ob8XsIZZwGw)
-[![YouTube Video Fgj1y2viBww](https://img.youtube.com/vi/Fgj1y2viBww/mqdefault.jpg)](https://www.youtube.com/watch?v=Fgj1y2viBww)
+[![YouTube Video EcXLVB0F_4M](https://img.youtube.com/vi/EcXLVB0F_4M/default.jpg)](https://www.youtube.com/watch?v=EcXLVB0F_4M)
+[![YouTube Video Ob8XsIZZwGw](https://img.youtube.com/vi/Ob8XsIZZwGw/default.jpg)](https://www.youtube.com/watch?v=Ob8XsIZZwGw)
+[![YouTube Video Fgj1y2viBww]( https://i.ytimg.com/an_webp/k6g9q4OOsjw/mqdefault_6s.webp?du=3000&sqp=COCHmMQG&rs=AOn4CLDVPTqZAaAGOd02jc6m-PXiGHryVg)](https://www.youtube.com/watch?v=Fgj1y2viBww)
+
 
 ---
 
