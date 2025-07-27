@@ -19,6 +19,14 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 ---
 
+  
+  
+
+  
+  
+
+---
+
 ## 🧠 Professional Roles & Technology Stack
 
 ### 📡 Signal and Image Processing Researcher
@@ -63,6 +71,10 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Anaconda-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
 </p>
 
+[![YouTube Video J5u8zVMiO8E](https://img.youtube.com/vi/J5u8zVMiO8E/mqdefault.jpg)](https://www.youtube.com/watch?v=J5u8zVMiO8E)
+[![YouTube Video gEOy8EPZuKQ](https://img.youtube.com/vi/gEOy8EPZuKQ/mqdefault.jpg)](https://www.youtube.com/watch?v=gEOy8EPZuKQ)
+[![YouTube Video cD5Y64XkIc4](https://img.youtube.com/vi/cD5Y64XkIc4/mqdefault.jpg)](https://www.youtube.com/watch?v=cD5Y64XkIc4)
+
 ---
 
 ### 🧰 Backend Software Developer
@@ -90,6 +102,11 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/cPanel-Hosting-orange?style=flat-square&logo=cpanel&logoColor=white" />
 </p>
 
+[![YouTube Video Qfv3fxJsK_0](https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg)](https://www.youtube.com/watch?v=Qfv3fxJsK_0)
+[![YouTube Video 5RyUPZGETeg](https://img.youtube.com/vi/5RyUPZGETeg/mqdefault.jpg)](https://www.youtube.com/watch?v=5RyUPZGETeg)
+[![YouTube Video BgejaZPU6dA](https://img.youtube.com/vi/BgejaZPU6dA/mqdefault.jpg)](https://www.youtube.com/watch?v=BgejaZPU6dA)
+
+
 ---
 
 ### 🔩 Embedded System & Hardware Engineer
@@ -110,6 +127,10 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Fritzing-Schematic-E62B1E?style=flat-square" />
   <img src="https://img.shields.io/badge/KiCAD-PCB-blue?style=flat-square" />
 </p>
+
+[![YouTube Video xxBklDEj95M](https://img.youtube.com/vi/xxBklDEj95M/mqdefault.jpg)](https://www.youtube.com/watch?v=xxBklDEj95M)
+[![YouTube Video LcyshfnrboA](https://img.youtube.com/vi/LcyshfnrboA/mqdefault.jpg)](https://www.youtube.com/watch?v=LcyshfnrboA)
+[![YouTube Video k2Xpjv19_mk](https://img.youtube.com/vi/k2Xpjv19_mk/mqdefault.jpg)](https://www.youtube.com/watch?v=k2Xpjv19_mk)
 
 ---
 
@@ -135,6 +156,10 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Encryption-Decryption-8B008B?style=flat-square" />
   <img src="https://img.shields.io/badge/HomeAssistant-Automation-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
 </p>
+
+[![YouTube Video EcXLVB0F_4M](https://img.youtube.com/vi/EcXLVB0F_4M/mqdefault.jpg)](https://www.youtube.com/watch?v=EcXLVB0F_4M)
+[![YouTube Video Ob8XsIZZwGw](https://img.youtube.com/vi/Ob8XsIZZwGw/mqdefault.jpg)](https://www.youtube.com/watch?v=Ob8XsIZZwGw)
+[![YouTube Video Fgj1y2viBww](https://img.youtube.com/vi/Fgj1y2viBww/mqdefault.jpg)](https://www.youtube.com/watch?v=Fgj1y2viBww)
 
 ---
 
