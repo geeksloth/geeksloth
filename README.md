@@ -33,7 +33,7 @@ A multi-disciplinary engineer and researcher integrating advanced signal science
   <img src="https://img.shields.io/badge/LaTeX-Typing-008080?style=flat-square&logo=latex" />
   <img src="https://img.shields.io/badge/Zotero-Reference-red?style=flat-square&logo=zotero&logoColor=white" />
   <img src="https://img.shields.io/badge/DrawIO-Diagram-orange?style=flat-square&logo=draw.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEEE-Publisher-blue?style=flat-square&logo=ieee" />
+  <img src="https://img.shields.io/badge/IEEE-Journal-blue?style=flat-square&logo=ieee" />
   <img src="https://img.shields.io/badge/MDPI-Journal-lightgrey?style=flat-square" />
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=python&logoColor=white" />
 </p>
@@ -56,7 +56,7 @@ A multi-disciplinary engineer and researcher integrating advanced signal science
 <p>
   <img src="https://img.shields.io/badge/NVIDIA-CUDA-green?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/JetPack-Deploy-green?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-Jetson-Embedded-green?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-Jetson-green?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
 </p>
@@ -74,7 +74,6 @@ A multi-disciplinary engineer and researcher integrating advanced signal science
 **Big Data:**
 <p>
   <img src="https://img.shields.io/badge/Hadoop-Framework-66CCFF?style=flat-square&logo=apachehadoop" />
-  <img src="https://img.shields.io/badge/Spark-In-Memory-orange?style=flat-square&logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/Hive-QuerySystem-FFBF00?style=flat-square" />
 </p>
 
