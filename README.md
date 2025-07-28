@@ -29,8 +29,8 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 > *Fourier analysis.*
 > *Noise detection, reduction, and compensation.*
-> *Medical image, ECG and pulse wave analysis.*
-> *AI-based anomaly detection and classification.*
+> *Medical image, electrocardiogram, multimodal analysis.*
+> *AI-based detection and classification.*
 
 <p>
   <img src="https://img.shields.io/badge/MATLAB-Main%20Tool-blue?style=flat-square&logo=Mathworks&logoColor=white" />
