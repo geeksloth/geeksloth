@@ -21,6 +21,8 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 ## 🧠 Professional Roles & Technology Stack
 
+> 🔧 Below are representative tools and technology stacks that I typically use most frequently in each role.
+
 ---
 
 ### 📡 Signal and Image Processing Researcher
@@ -91,7 +93,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-RDBMS-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-Auth-pink?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-MessageQueue-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-IoT-005A9C?style=flat-square" />
@@ -116,7 +118,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/PLC-Industrial-F5A623?style=flat-square" />
   <img src="https://img.shields.io/badge/Arduino-Prototyping-00979D?style=flat-square&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/STM32-Complex%20Task-03234B?style=flat-square" />
-  <img src="https://img.shields.io/badge/ESP32-Node-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/ESP32-Node-red?style=flat-square" />
   <img src="https://img.shields.io/badge/LoRa-IoT-00AEEF?style=flat-square" />
   <img src="https://img.shields.io/badge/RS--485-Protocol-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/SiPeed-Edge%20AI-red?style=flat-square" />
@@ -138,6 +140,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 <p>
   <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/TailsOS-Privacy-009639?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Onion-Tor-purple?style=flat-square&logo=Tor-Browser&logoColor=white" />
   <img src="https://img.shields.io/badge/SSH-Tunnel-000000?style=flat-square&logo=openssh&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailscale-VPN-02B2FC?style=flat-square&logo=tailscale&logoColor=white" />
   <img src="https://img.shields.io/badge/RustDesk-Remote-00BFFF?style=flat-square" />
@@ -145,8 +148,8 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/hcxdumptool-WPA-crimson?style=flat-square" />
   <img src="https://img.shields.io/badge/tcpdump-Packet%20Analysis-lightgrey?style=flat-square" />
   <img src="https://img.shields.io/badge/Hashcat-BruteForce-red?style=flat-square&logo=hashnode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Darkweb-Anonimity-black?style=flat-square&logo=Tor-Browser&logoColor=white" />
   <img src="https://img.shields.io/badge/GPU%20Mining-Rig%20Building-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dectyption-GPU%20Bruteforce-green?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/NerdMiner-Solo%20Miner-F39C12?style=flat-square" />
   <img src="https://img.shields.io/badge/BinanceFutureBot-AI%20Trader-orange?style=flat-square" />
   <img src="https://img.shields.io/badge/Threading-Multicore-red?style=flat-square" />
