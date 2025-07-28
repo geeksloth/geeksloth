@@ -57,18 +57,19 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Keras-API-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Colab-Model%20Training-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetson-Edge%20AI-green?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Fuzzy%20Logic-Expert%20System-006400?style=flat-square" />
   <img src="https://img.shields.io/badge/LLM-Language%20Model-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented-FF69B4?style=flat-square" />
   <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-Data-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hive-Data-FF9900?style=flat-square&logo=apachehive&logoColor=black" />
-  <img src="https://img.shields.io/badge/Spark-Cluster-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-LLM-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-LLM-blue?style=flat-square&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-Automation-orange?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-VectorDB-4B286D?style=flat-square" />
   <img src="https://img.shields.io/badge/Anaconda-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hadoop-Data-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-Data-FF9900?style=flat-square&logo=apachehive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-Cluster-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=J5u8zVMiO8E" target="_blank"><img src="https://img.youtube.com/vi/J5u8zVMiO8E/mqdefault.jpg" alt="" width="250"/></a>
@@ -118,10 +119,10 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/SingleBoardComputer-Linux%20Based-green?style=flat-square&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/PLC-Industrial-F5A623?style=flat-square" />
   <img src="https://img.shields.io/badge/Arduino-Prototyping-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-Complex%20Task-03234B?style=flat-square" />
-  <img src="https://img.shields.io/badge/ESP32-Node-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/STM32-Standalone-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-Node-red?style=flat-square&logo=espressif&logoColor=white" />
   <img src="https://img.shields.io/badge/LoRa-IoT-00AEEF?style=flat-square" />
-  <img src="https://img.shields.io/badge/RS--485-Protocol-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/RS--485-Wired%20Comm-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/SiPeed-Edge%20AI-red?style=flat-square" />
   <img src="https://img.shields.io/badge/Hailo-Accelerator-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Fritzing-Schematic-E62B1E?style=flat-square" />
