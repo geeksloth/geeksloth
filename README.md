@@ -15,7 +15,7 @@
 
 > Bridging research and real-world applications with mathematics, embedded intelligence, and secure computation.
 
-I'm a multi-domain researcher and engineer with active contributions in signal/image processing, AI system deployment, backend architecture, embedded design, and system exploitation. My work spans from scientific publication and algorithm design to real-time deployment in secure environments.
+I'm a multi-domain researcher and engineer with active contributions in signal/image processing, AI system deployment, backend architecture, embedded design, and system exploitation. I aspire to lead a life of quiet purpose—one that harmonizes scientific inquiry, natural beauty, and compassion for humanity. Through research and innovation, I seek to illuminate the unseen for those without sight, and to contribute, in my humble way, to the greater cycle of giving that sustains this universe.
 
 ---
 
