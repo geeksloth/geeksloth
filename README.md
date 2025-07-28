@@ -25,7 +25,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 ### 📡 Signal and Image Processing Researcher
 
-> *Noise modeling, transform-domain denoising, artifact detection, image quality enhancement*
+> *Noise modeling, Fourier-spatial domain denoising, movement artifact detection, medical image processing, ECG & pulse wave analysis*
 
 <p>
   <img src="https://img.shields.io/badge/MATLAB-Mathworks-blue?style=flat-square&logo=Mathworks&logoColor=white" />
@@ -120,7 +120,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/LoRa-IoT-00AEEF?style=flat-square" />
   <img src="https://img.shields.io/badge/RS--485-Protocol-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/SiPeed-EdgeAI-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hailo-Accelerator-gray?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hailo-Accelerator-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Fritzing-Schematic-E62B1E?style=flat-square" />
   <img src="https://img.shields.io/badge/KiCAD-PCB-blue?style=flat-square" />
 </p>
