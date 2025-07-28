@@ -39,6 +39,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Zotero-Reference-B23121?style=flat-square&logo=zotero&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-Diagram-FF9900?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prezi-Presentation-3181FF?style=flat-square&logo=Prezi&logoColor=white" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=2IZ5DQ_dYxM" target="_blank"><img src="https://img.youtube.com/vi/2IZ5DQ_dYxM/mqdefault.jpg" alt="" width="250"/></a>
