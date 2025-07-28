@@ -190,13 +190,13 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 - Formal use: ![iOS](https://img.shields.io/badge/macOS-60%25-brightgreen)
 - Functional use: ![Android](https://img.shields.io/badge/Linux-40%25-green)
 
-<a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s" target="_blank"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="" width="200"/></a>
-&nbsp;
-<a href="https://www.youtube.com/watch?v=JlHysbqlGp8" target="_blank"><img src="https://img.youtube.com/vi/JlHysbqlGp8/mqdefault.jpg" alt="" width="200"/></a>
-&nbsp;
-<a href="https://www.youtube.com/watch?v=kmhRIhEZbWo" target="_blank"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="" width="200"/></a>
-&nbsp;
-<a href="https://www.youtube.com/watch?v=kmhRIhEZbWo" target="_blank"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="" width="200"/></a>
+<a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s" target="_blank"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="" width="180"/></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=JlHysbqlGp8" target="_blank"><img src="https://img.youtube.com/vi/JlHysbqlGp8/mqdefault.jpg" alt="" width="180"/></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=kmhRIhEZbWo" target="_blank"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="" width="180"/></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/watch?v=twP7U5Hw0FA" target="_blank"><img src="https://img.youtube.com/vi/twP7U5Hw0FA/mqdefault.jpg" alt="" width="180"/></a>
 
 ---
 
