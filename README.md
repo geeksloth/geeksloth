@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Python-Deep%20Tech-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-Jetson-green?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Research%20Hub-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Development%20Hub-purple?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -34,8 +34,8 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Python3.x-Second%20Tool-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-Main%20IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-Formatting-008080?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEEE-Main%20Publication-00629B?style=flat-square&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/MDPI-Second%20Publication-00629B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEEE-Publication-00629B?style=flat-square&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/MDPI-Publication-00629B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Zotero-Reference-B23121?style=flat-square&logo=zotero&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-Diagram-FF9900?style=flat-square&logo=diagrams.net&logoColor=white" />
@@ -85,21 +85,22 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-VersionControl-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-Microservice-red?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-API-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-Scripting-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Ubuntu-Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-ReverseProxy-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-RDBMS-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-Auth-pink?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-ReverseProxy-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-RDBMS-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/RabbitMQ-MessageQueue-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
   <img src="https://img.shields.io/badge/MQTT-IoT-005A9C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Django-API-092E20?style=flat-square&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-API-F56C2D?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proxmox-VM-800000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Proxmox-VM-800000?style=flat-square&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-Scripting-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/cPanel-Hosting-orange?style=flat-square&logo=cpanel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web-Development-blue?style=flat-square&logo=firefoxbrowser&logoColor=white" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=Qfv3fxJsK_0" target="_blank"><img src="https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg" alt="" width="250"/></a>
