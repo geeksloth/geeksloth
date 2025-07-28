@@ -11,7 +11,7 @@
 
 ---
 
-# 👋 Hi, I'm GeekSloth
+# 🎓 Hello, I'm GeekSloth
 
 > Bridging research and real-world applications with mathematics, embedded intelligence, and secure computation.
 
