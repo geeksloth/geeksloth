@@ -30,12 +30,12 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 > *Noise modeling, Fourier-spatial domain denoising, movement artifact detection, medical image processing, ECG & pulse wave analysis*
 
 <p>
-  <img src="https://img.shields.io/badge/MATLAB-Mathworks-blue?style=flat-square&logo=Mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-Editor-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-Writing-008080?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEEE-Member-00629B?style=flat-square&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/MDPI-Publication-lightgrey?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-Main%20Tool-blue?style=flat-square&logo=Mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python3.x-Second%20Tool-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-Main%20IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-Formatting-008080?style=flat-square&logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEEE-Main%20Publication-00629B?style=flat-square&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/MDPI-Second%20Publication-00629B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Zotero-Reference-B23121?style=flat-square&logo=zotero&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-Diagram-FF9900?style=flat-square&logo=diagrams.net&logoColor=white" />
