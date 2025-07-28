@@ -160,18 +160,33 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 </p>
 
 <a href="https://www.youtube.com/watch?v=Ob8XsIZZwGw" target="_blank"><img src="https://img.youtube.com/vi/Ob8XsIZZwGw/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=Fgj1y2viBww" target="_blank"><img src="https://img.youtube.com/vi/Fgj1y2viBww/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=EcXLVB0F_4M" target="_blank"><img src="https://img.youtube.com/vi/EcXLVB0F_4M/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
 
 ### 🌿 Some aspects of life
 
-> *"Gaming, Review, Podcast, Philosophy, Meditation, Knowledge Sharing, And so on..."*
+> *"Life, Gaming, Review, Podcast, Philosophy, Meditation, Knowledge Sharing, and so on..."*
 
-<a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s" target="_blank"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="" width="250"/></a>
-<a href="https://www.youtube.com/watch?v=JlHysbqlGp8" target="_blank"><img src="https://img.youtube.com/vi/JlHysbqlGp8/mqdefault.jpg" alt="" width="250"/></a>
-<a href="https://www.youtube.com/watch?v=kmhRIhEZbWo" target="_blank"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="" width="250"/></a>
+#### Computer OS
+  
+- Life at a glance: ![macOS](https://img.shields.io/badge/macOS-50%25-brightgreen)
+- Behind the stage: ![Linux](https://img.shields.io/badge/Linux-45%25-green)
+- Relaxing and content creation: ![Windows](https://img.shields.io/badge/Windows-5%25-yellow)
+
+#### Mobile Phone OS
+
+- Formal use: ![iOS](https://img.shields.io/badge/macOS-60%25-brightgreen)
+- Functional use: ![Android](https://img.shields.io/badge/Linux-40%25-green)
+
+<a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s" target="_blank"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="" width="200"/></a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=JlHysbqlGp8" target="_blank"><img src="https://img.youtube.com/vi/JlHysbqlGp8/mqdefault.jpg" alt="" width="200"/></a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=kmhRIhEZbWo" target="_blank"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="" width="200"/></a>
 
 ---
 
