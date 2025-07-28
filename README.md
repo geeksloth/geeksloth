@@ -25,20 +25,23 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 ---
 
-### 📡 Signal and Image Processing Researcher
+### 📡 Signal-Image Processing and AI Researcher
 
-> *Noise modeling, Fourier-spatial domain denoising, movement artifact detection, medical image processing, ECG & pulse wave analysis*
+> *Fourier analysis.*
+> *Noise detection, reduction, and compensation.*
+> *Medical image, ECG and pulse wave analysis.*
+> *AI-based anomaly detection and classification.*
 
 <p>
   <img src="https://img.shields.io/badge/MATLAB-Main%20Tool-blue?style=flat-square&logo=Mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python3.x-Second%20Tool-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-Main%20IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python3.x-Tool-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-Formatting-008080?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEEE-Publication-00629B?style=flat-square&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/MDPI-Publication-00629B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Zotero-Reference-B23121?style=flat-square&logo=zotero&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-Diagram-FF9900?style=flat-square&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEEE-Publication-00629B?style=flat-square&logo=ieee&logoColor=white" />
+  <img src="https://img.shields.io/badge/MDPI-Publication-00629B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Prezi-Presentation-3181FF?style=flat-square&logo=Prezi&logoColor=white" />
 </p>
 
