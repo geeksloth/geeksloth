@@ -206,7 +206,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 ## ✉️ Contact & Social Platforms
 
-> ⚡ *"Precision, security, and intelligence—designed at the root signal and deployed across the edge."*
+> 🔬 *"Now I'm doing a PhD research, maybe slow reply."*
 
 <p align="left">
   <a href="https://github.com/geeksloth" target="_blank">
