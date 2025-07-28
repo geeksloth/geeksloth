@@ -42,7 +42,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 </p>
 
 <a href="https://www.youtube.com/watch?v=2IZ5DQ_dYxM" target="_blank"><img src="https://img.youtube.com/vi/2IZ5DQ_dYxM/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=z3PGISZgiW0" target="_blank"><img src="https://img.youtube.com/vi/z3PGISZgiW0/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=4J0Wpf-onjo" target="_blank"><img src="https://img.youtube.com/vi/4J0Wpf-onjo/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
@@ -73,7 +75,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 </p>
 
 <a href="https://www.youtube.com/watch?v=J5u8zVMiO8E" target="_blank"><img src="https://img.youtube.com/vi/J5u8zVMiO8E/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=gEOy8EPZuKQ" target="_blank"><img src="https://img.youtube.com/vi/gEOy8EPZuKQ/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=cD5Y64XkIc4" target="_blank"><img src="https://img.youtube.com/vi/cD5Y64XkIc4/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
@@ -105,7 +109,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 </p>
 
 <a href="https://www.youtube.com/watch?v=Qfv3fxJsK_0" target="_blank"><img src="https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=5RyUPZGETeg" target="_blank"><img src="https://img.youtube.com/vi/5RyUPZGETeg/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=BgejaZPU6dA" target="_blank"><img src="https://img.youtube.com/vi/BgejaZPU6dA/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
@@ -130,7 +136,9 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 </p>
 
 <a href="https://www.youtube.com/watch?v=xxBklDEj95M" target="_blank"><img src="https://img.youtube.com/vi/xxBklDEj95M/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=LcyshfnrboA" target="_blank"><img src="https://img.youtube.com/vi/LcyshfnrboA/mqdefault.jpg" alt="" width="250"/></a>
+&nbsp;&nbsp;
 <a href="https://www.youtube.com/watch?v=k2Xpjv19_mk" target="_blank"><img src="https://img.youtube.com/vi/k2Xpjv19_mk/mqdefault.jpg" alt="" width="250"/></a>
 
 ---
@@ -185,6 +193,8 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 <a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s" target="_blank"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="" width="200"/></a>
 &nbsp;
 <a href="https://www.youtube.com/watch?v=JlHysbqlGp8" target="_blank"><img src="https://img.youtube.com/vi/JlHysbqlGp8/mqdefault.jpg" alt="" width="200"/></a>
+&nbsp;
+<a href="https://www.youtube.com/watch?v=kmhRIhEZbWo" target="_blank"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="" width="200"/></a>
 &nbsp;
 <a href="https://www.youtube.com/watch?v=kmhRIhEZbWo" target="_blank"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="" width="200"/></a>
 
