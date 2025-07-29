@@ -199,7 +199,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 #### Mobile Phone OS
 
 - Formal use: ![iOS](https://img.shields.io/badge/macOS-60%25-brightgreen)
-- Functional use: ![Android](https://img.shields.io/badge/Linux-40%25-green)
+- Functional use: ![Android](https://img.shields.io/badge/Android-40%25-green)
 
 <a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s" target="_blank"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="" width="180"/></a>
 &nbsp;&nbsp;
