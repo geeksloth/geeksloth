@@ -162,14 +162,20 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/hcxdumptool-WPA-crimson?style=flat-square" />
   <img src="https://img.shields.io/badge/tcpdump-Packet%20Analysis-lightgrey?style=flat-square" />
   <img src="https://img.shields.io/badge/Hashcat-BruteForce-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Threading-Multicore-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Encryption-Decryption-8B008B?style=flat-square" />
+  <img src="https://img.shields.io/badge/HomeAssistant-Automation-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
   <img src="https://img.shields.io/badge/Crypto%20Mining-GPU%20Rig-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
   <img src="https://img.shields.io/badge/Dectyption-GPU%20Bruteforce-green?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/NerdMiner-Solo%20Miner-F39C12?style=flat-square" />
   <img src="https://img.shields.io/badge/BinanceFutureBot-AI%20Trader-F0B90B?style=flat-square&logo=Binance&logoColor=white" />
-  <img src="https://img.shields.io/badge/Threading-Multicore-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Encryption-Decryption-8B008B?style=flat-square" />
-  <img src="https://img.shields.io/badge/HomeAssistant-Automation-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
+  <img src="https://img.shields.io/badge/TradingView-API-131622?style=flat-square&logo=TradingView&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trezor-HW%20Wallet-5ee396?style=flat-square" />
+  <img src="https://img.shields.io/badge/Metamask-SW%20Wallet-ffa680?style=flat-square" />
+  <img src="https://img.shields.io/badge/2Miners-Pool-0d0d0d?style=flat-square" />
+  <img src="https://img.shields.io/badge/NBminer-Miner-3C3C3D?style=flat-square" />
+  <img src="https://img.shields.io/badge/NiceHash-Pool-FBC342?style=flat-square&logo=NiceHash&logoColor=white" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=Ob8XsIZZwGw" target="_blank"><img src="https://img.youtube.com/vi/Ob8XsIZZwGw/mqdefault.jpg" alt="" width="250"/></a>
