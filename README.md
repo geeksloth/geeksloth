@@ -140,6 +140,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Hailo-Accelerator-green?style=flat-square" />
   <img src="https://img.shields.io/badge/Fritzing-Schematic-E62B1E?style=flat-square" />
   <img src="https://img.shields.io/badge/KiCAD-PCB-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/SketchUp-3D%20Modelling-005F9E?style=flat-square&logo=sketchup&logoColor=white" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=xxBklDEj95M" target="_blank"><img src="https://img.youtube.com/vi/xxBklDEj95M/mqdefault.jpg" alt="" width="250"/></a>
