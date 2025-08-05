@@ -101,7 +101,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-Auth-pink?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-ReverseProxy-009639?style=flat-square&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-WebServer-009639?style=flat-square&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-RDBMS-4479A1?style=flat-square&logo=mysql&logoColor=white" />
