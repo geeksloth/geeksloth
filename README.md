@@ -43,6 +43,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/IEEE-Publication-00629B?style=flat-square&logo=ieee&logoColor=white" />
   <img src="https://img.shields.io/badge/MDPI-Publication-00629B?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Prezi-Presentation-3181FF?style=flat-square&logo=Prezi&logoColor=white" />
+  <img src="https://img.shields.io/badge/MD-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=2IZ5DQ_dYxM" target="_blank"><img src="https://img.youtube.com/vi/2IZ5DQ_dYxM/mqdefault.jpg" alt="" width="250"/></a>
@@ -63,8 +64,10 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Keras-API-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/cuDNN-GPUlib-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-Model%20Training-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
   <img src="https://img.shields.io/badge/Jetson-Edge%20AI-green?style=flat-square&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/JetPack-SDK-green?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/Fuzzy%20Logic-Expert%20System-006400?style=flat-square" />
   <img src="https://img.shields.io/badge/LLM-Language%20Model-blueviolet?style=flat-square" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented-FF69B4?style=flat-square" />
