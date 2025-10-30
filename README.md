@@ -245,3 +245,11 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg" alt="Darkweb (Tor)" height="60" />
   </a>
 </p>
+
+---
+
+### 🕵️ In case you are interested
+
+> *Who is the child in this image?*
+
+<a href="https://github.com/geeksloth/Who-is-the-child-in-this-image" target="_blank"><img src="https://github.com/geeksloth/Who-is-the-child-in-this-image/blob/main/static/figure1-180-degree-rotated.jpg" alt="" width="250"/></a>
