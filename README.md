@@ -218,7 +218,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 
 ## ✉️ Contact & Social Platforms
 
-> 🔬 *"I am currently working on PhD research, so my response may be slow. Owner verification phrase: [3907994] "*
+> 🔬 *"I am currently working on PhD research, so my response may be slow."*
 
 <p align="left">
   <a href="https://github.com/geeksloth" target="_blank">
