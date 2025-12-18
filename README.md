@@ -76,7 +76,8 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Ollama-LLM-blue?style=flat-square&logo=ollama&logoColor=white" />
   <img src="https://img.shields.io/badge/n8n-Automation-orange?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-VectorDB-4B286D?style=flat-square" />
-  <img src="https://img.shields.io/badge/Anaconda-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Conda-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
+  <img src="https://img.shields.io/badge/Venv-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
   <img src="https://img.shields.io/badge/Hadoop-Data-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" />
   <img src="https://img.shields.io/badge/Hive-Data-FF9900?style=flat-square&logo=apachehive&logoColor=white" />
   <img src="https://img.shields.io/badge/Spark-Cluster-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
