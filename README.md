@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/IEEE-Publication-blue?style=for-the-badge&logo=ieee&logoColor=white" />
-  <!--<img src="https://img.shields.io/badge/MDPI-Sensors-blue?style=for-the-badge" />-->
+  <img src="https://img.shields.io/badge/MDPI-Sensors-008cba?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MATLAB-Signal%20Processing-blue?style=for-the-badge&logo=Mathworks&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-Deep%20Tech-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
@@ -42,7 +42,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Zotero-Reference-B23121?style=flat-square&logo=zotero&logoColor=white" />
   <img src="https://img.shields.io/badge/Draw.io-Diagram-FF9900?style=flat-square&logo=diagrams.net&logoColor=white" />
   <img src="https://img.shields.io/badge/IEEE-Publication-00629B?style=flat-square&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/MDPI-Publication-00629B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/MDPI-Publication-008cba?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Prezi-Presentation-3181FF?style=flat-square&logo=Prezi&logoColor=white" />
   <img src="https://img.shields.io/badge/MD-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
 </p>
@@ -114,6 +114,8 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/PHP-Scripting-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/cPanel-Hosting-orange?style=flat-square&logo=cpanel&logoColor=white" />
   <img src="https://img.shields.io/badge/Web-Development-blue?style=flat-square&logo=firefoxbrowser&logoColor=white" />
+  <img src="https://img.shields.io/badge/WebSocket-Communication-black?style=flat-square" />
+  <!-- <img src="https://img.shields.io/badge/WebTransport-Communication-black?style=flat-square" /> -->
 </p>
 
 <a href="https://www.youtube.com/watch?v=Qfv3fxJsK_0" target="_blank"><img src="https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg" alt="" width="250"/></a>
@@ -142,6 +144,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/Fritzing-Schematic-E62B1E?style=flat-square" />
   <img src="https://img.shields.io/badge/KiCAD-PCB-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/SketchUp-3D%20Modelling-005F9E?style=flat-square&logo=sketchup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kivy-UI-black?style=flat-square" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=xxBklDEj95M" target="_blank"><img src="https://img.youtube.com/vi/xxBklDEj95M/mqdefault.jpg" alt="" width="250"/></a>
