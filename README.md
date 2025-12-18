@@ -34,8 +34,8 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 > *AI-based detection and classification.*
 
 <p>
-  <img src="https://img.shields.io/badge/MATLAB-Main%20Tool-blue?style=flat-square&logo=Mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python3.x-Tool-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-Research-blue?style=flat-square&logo=Mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python3.x-Development-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-Formatting-008080?style=flat-square&logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
@@ -62,7 +62,7 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
 <p>
   <img src="https://img.shields.io/badge/PyTorch-DL-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-API-D00000?style=flat-square&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-DL-D00000?style=flat-square&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
   <img src="https://img.shields.io/badge/cuDNN-GPUlib-76B900?style=flat-square&logo=nvidia&logoColor=white" />
@@ -77,10 +77,11 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/n8n-Automation-orange?style=flat-square&logo=n8n&logoColor=white" />
   <img src="https://img.shields.io/badge/Qdrant-VectorDB-4B286D?style=flat-square" />
   <img src="https://img.shields.io/badge/Conda-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Venv-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hadoop-Data-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-Data-FF9900?style=flat-square&logo=apachehive&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-Cluster-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Virtual-Environment-44A833?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hive-Warehouse-FF9900?style=flat-square&logo=apachehive&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-Analytics-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parallel-Programming-orange?style=flat-square" />
 </p>
 
 <a href="https://www.youtube.com/watch?v=J5u8zVMiO8E" target="_blank"><img src="https://img.youtube.com/vi/J5u8zVMiO8E/mqdefault.jpg" alt="" width="250"/></a>
@@ -116,7 +117,6 @@ I'm a multi-domain researcher and engineer with active contributions in signal/i
   <img src="https://img.shields.io/badge/cPanel-Hosting-orange?style=flat-square&logo=cpanel&logoColor=white" />
   <img src="https://img.shields.io/badge/Web-Development-blue?style=flat-square&logo=firefoxbrowser&logoColor=white" />
   <img src="https://img.shields.io/badge/WebSocket-Communication-black?style=flat-square" />
-  <!-- <img src="https://img.shields.io/badge/WebTransport-Communication-black?style=flat-square" /> -->
 </p>
 
 <a href="https://www.youtube.com/watch?v=Qfv3fxJsK_0" target="_blank"><img src="https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg" alt="" width="250"/></a>
