@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/Python-Deep%20Tech-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-Jetson-green?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Development%20Hub-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-purple?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Obsidian-Knowledge%20Management-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
 </p>
 
 ---
