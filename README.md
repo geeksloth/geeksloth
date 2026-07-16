@@ -1,264 +1,219 @@
 <!-- GitHub Profile README.md -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IEEE-Publication-blue?style=for-the-badge&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/MDPI-Sensors-008cba?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MATLAB-Signal%20Processing-blue?style=for-the-badge&logo=Mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-Deep%20Tech-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-Jetson-green?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Version%20Control-purple?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Obsidian-Knowledge%20Management-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+  <img src="https://img.shields.io/badge/IEEE-Publication-blue?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE publication" />
+  <img src="https://img.shields.io/badge/MDPI-Sensors-008cba?style=for-the-badge" alt="MDPI Sensors" />
+  <img src="https://img.shields.io/badge/MATLAB-Signal%20Processing-blue?style=for-the-badge&logo=Mathworks&logoColor=white" alt="MATLAB signal processing" />
+  <img src="https://img.shields.io/badge/Python-Deep%20Tech-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python deep tech" />
+  <img src="https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" alt="Linux Ubuntu" />
+  <img src="https://img.shields.io/badge/NVIDIA-CUDA-green?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson" />
+  <img src="https://img.shields.io/badge/Arduino-Embedded%20Systems-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino embedded systems" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-Edge%20Computing-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi edge computing" />
+</p>
+
+# Hello, I'm GeekSloth
+
+> PhD candidate and research engineer working from mathematical signal analysis to deployable sensing systems.
+
+I am a PhD Candidate in Computer Science at Khon Kaen University, working across computational imaging, stochastic signal and image processing, medical AI, and sensor-integrated intelligent systems. My research investigates transform-domain analysis, inverse problems, noise and artifact suppression, and real-time edge inference. In the longer term, I am interested in computational sensory substitution: designing structured mappings between high-dimensional perceptual signals to make information more accessible.
+
+---
+
+## Professional practice
+
+### Signal and Image Processing Researcher
+
+I study signal representations and computational imaging with an emphasis on Fourier and transform-domain analysis, stochastic noise modeling, artifact reduction, inverse problems, and optimization-based reconstruction. My applied work includes medical imaging, ECG and multimodal analysis, AI-assisted detection, and classification, with a focus on methods that can move from controlled experiments toward useful sensing systems.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matlab,python,vscode,latex,git,github,obsidian" height="34" alt="Research and writing tools" />
+  <img src="https://cdn.simpleicons.org/numpy" height="34" alt="NumPy" title="NumPy" />
+  <img src="https://cdn.simpleicons.org/jupyter" height="34" alt="Jupyter" title="Jupyter" />
+  <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" height="34" alt="Matplotlib" title="Matplotlib" />
+  <img src="https://cdn.simpleicons.org/zotero" height="34" alt="Zotero" title="Zotero" />
+  <img src="https://cdn.simpleicons.org/diagramsdotnet" height="34" alt="Draw.io" title="Draw.io" />
+  <img src="https://cdn.simpleicons.org/prezi" height="34" alt="Prezi" title="Prezi" />
+  <img src="https://cdn.simpleicons.org/ieee" height="34" alt="IEEE" title="IEEE" />
+  <img src="https://github.com/MDPI.png?size=64" height="34" alt="MDPI" title="MDPI" />
+</p>
+
+<p align="center"><sub>scikit-image · <code>uv</code> · Virtual Environment · Markdown · IEEE publication workflow · MDPI publication workflow</sub></p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=2IZ5DQ_dYxM"><img src="https://img.youtube.com/vi/2IZ5DQ_dYxM/mqdefault.jpg" alt="Signal and image processing video 1" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=z3PGISZgiW0"><img src="https://img.youtube.com/vi/z3PGISZgiW0/mqdefault.jpg" alt="Signal and image processing video 2" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=4J0Wpf-onjo"><img src="https://img.youtube.com/vi/4J0Wpf-onjo/mqdefault.jpg" alt="Signal and image processing video 3" width="250" /></a>
 </p>
 
 ---
 
-# 🎓 Hello, I'm GeekSloth
+### AI and Edge ML Engineer
 
-> Bridging research and real-world applications with mathematics, embedded intelligence, and secure computation.
+I design, adapt, and deploy machine-learning systems for computer vision, language, and sensor data. This includes fuzzy logic, YOLO-based detection, LLM and RAG applications, fine-tuning, GPU-accelerated parallel computation, and efficient deployment on NVIDIA Jetson and other edge platforms. I work across experimental training workflows and practical local or containerized inference environments.
 
-I'm a multi-domain researcher and engineer with active contributions in signal/image processing, AI system deployment, backend architecture, embedded design, and system exploitation. I aspire to lead a life of quiet purpose—one that harmonizes scientific inquiry, natural beauty, and compassion for humanity. Through research and innovation, I seek to illuminate the unseen for those without sight, and to contribute, in my humble way, to the greater cycle of giving that sustains this universe.
-
----
-
-## 🧠 Professional Roles & Technology Stack
-
-> 🔧 Below are representative tools and technology stacks that I typically use most frequently in each role.
-
----
-
-### 📡 Signal-Image Processing and AI Researcher
-
-> *Fourier analysis.*
-> *Noise detection, reduction, and compensation.*
-> *Medical image, electrocardiogram, multimodal analysis.*
-> *AI-based detection and classification.*
-
-<p>
-  <img src="https://img.shields.io/badge/MATLAB-Research-blue?style=flat-square&logo=Mathworks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python3.x-Development-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-IDE-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/LaTeX-Formatting-008080?style=flat-square&logo=latex&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat-square&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zotero-Reference-B23121?style=flat-square&logo=zotero&logoColor=white" />
-  <img src="https://img.shields.io/badge/Draw.io-Diagram-FF9900?style=flat-square&logo=diagrams.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/IEEE-Publication-00629B?style=flat-square&logo=ieee&logoColor=white" />
-  <img src="https://img.shields.io/badge/MDPI-Publication-008cba?style=flat-square&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prezi-Presentation-3181FF?style=flat-square&logo=Prezi&logoColor=white" />
-  <img src="https://img.shields.io/badge/MD-Markdown-000000?style=flat-square&logo=Markdown&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,python,docker,githubactions" height="34" alt="AI, machine learning, and deployment tools" />
+  <img src="https://cdn.simpleicons.org/keras" height="34" alt="Keras" title="Keras" />
+  <img src="https://cdn.simpleicons.org/huggingface" height="34" alt="Hugging Face" title="Hugging Face" />
+  <img src="https://cdn.simpleicons.org/nvidia" height="34" alt="CUDA, cuDNN, NVIDIA, and Jetson" title="CUDA · cuDNN · NVIDIA · Jetson" />
+  <img src="https://cdn.simpleicons.org/googlecolab" height="34" alt="Google Colab" title="Google Colab" />
+  <img src="https://cdn.simpleicons.org/lmstudio" height="34" alt="LM Studio" title="LM Studio" />
+  <img src="https://cdn.simpleicons.org/ollama" height="34" alt="Ollama" title="Ollama" />
+  <img src="https://cdn.simpleicons.org/qdrant" height="34" alt="Qdrant" title="Qdrant" />
+  <img src="https://cdn.simpleicons.org/ultralytics" height="34" alt="Ultralytics" title="Ultralytics" />
+  <img src="https://raw.githubusercontent.com/NousResearch/hermes-agent/main/website/static/img/logo.png" height="34" alt="Hermes Agent by Nous Research" title="Hermes Agent by Nous Research" />
+  <img src="https://cdn.simpleicons.org/claudecode" height="34" alt="Claude Code" title="Claude Code" />
+  <img src="https://github.com/open-webui.png?size=64" height="34" alt="Open WebUI" title="Open WebUI" />
+  <img src="https://github.com/openclaw.png?size=64" height="34" alt="OpenClaw Agent" title="OpenClaw Agent" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=2IZ5DQ_dYxM" target="_blank"><img src="https://img.youtube.com/vi/2IZ5DQ_dYxM/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=z3PGISZgiW0" target="_blank"><img src="https://img.youtube.com/vi/z3PGISZgiW0/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=4J0Wpf-onjo" target="_blank"><img src="https://img.youtube.com/vi/4J0Wpf-onjo/mqdefault.jpg" alt="" width="250"/></a>
+<p align="center"><sub>YOLO · Fuzzy Logic · LLMs · RAG · Fine-tuning · TensorRT · TensorRT for Jetson · NVIDIA JetPack · Parallel Programming · Pi Agent</sub></p>
 
----
-
-### 🤖 AI Engineer
-
-> *Fuzzy Logic, LLMs, YOLO, fine-tuning, deployment on edge*
-
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-DL-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-2.x-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-DL-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/NVIDIA-CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/cuDNN-GPUlib-76B900?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Colab-Model%20Training-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jetson-Edge%20AI-green?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/JetPack-SDK-green?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fuzzy%20Logic-Expert%20System-006400?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM-Language%20Model-blueviolet?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented-FF69B4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-LLM-blue?style=flat-square&logo=ollama&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-Automation-orange?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Qdrant-VectorDB-4B286D?style=flat-square" />
-  <img src="https://img.shields.io/badge/LM-Studio-black?style=flat-square&logo=lmstudio&logoColor=white">
-  <img src="https://img.shields.io/badge/OpenClaw-Agent-red?style=flat-square&logo=OpenClaw&logoColor=white">
-  <img src="https://img.shields.io/badge/Claude-Code-D97757?style=flat-square&logo=claude&logoColor=white">
-  <img src="https://img.shields.io/badge/Hermes-Agent-blue?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Conda-Env-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Virtual-Environment-44A833?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hive-Warehouse-FF9900?style=flat-square&logo=apachehive&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-Analytics-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Parallel-Programming-orange?style=flat-square" />
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=J5u8zVMiO8E"><img src="https://img.youtube.com/vi/J5u8zVMiO8E/mqdefault.jpg" alt="AI and edge ML video 1" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=gEOy8EPZuKQ"><img src="https://img.youtube.com/vi/gEOy8EPZuKQ/mqdefault.jpg" alt="AI and edge ML video 2" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=cD5Y64XkIc4"><img src="https://img.youtube.com/vi/cD5Y64XkIc4/mqdefault.jpg" alt="AI and edge ML video 3" width="250" /></a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=J5u8zVMiO8E" target="_blank"><img src="https://img.youtube.com/vi/J5u8zVMiO8E/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=gEOy8EPZuKQ" target="_blank"><img src="https://img.youtube.com/vi/gEOy8EPZuKQ/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=cD5Y64XkIc4" target="_blank"><img src="https://img.youtube.com/vi/cD5Y64XkIc4/mqdefault.jpg" alt="" width="250"/></a>
-
 ---
 
-### 🧰 Backend Software Developer
+### Backend and Distributed Systems Developer
 
-> *AI infrastructure, APIs, crypto integration, containerization*
+I build API-first services and supporting infrastructure for AI applications, real-time systems, and containerized deployments. My backend work spans secure authentication, relational and document data stores, caching, asynchronous messaging, WebSocket communication, reverse proxies, and practical hosting or virtualization environments.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-Backend-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-VersionControl-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-Microservice-red?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-Server-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Container-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-Auth-pink?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-Cache-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-WebServer-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-DB-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-RDBMS-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-MessageQueue-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-IoT-005A9C?style=flat-square" />
-  <img src="https://img.shields.io/badge/Django-API-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-API-F56C2D?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Proxmox-VM-800000?style=flat-square&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-Scripting-777BB4?style=flat-square&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/cPanel-Hosting-orange?style=flat-square&logo=cpanel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web-Development-blue?style=flat-square&logo=firefoxbrowser&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSocket-Communication-black?style=flat-square" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,django,postgresql,mongodb,mysql,redis,rabbitmq,nginx,docker,php,ubuntu" height="34" alt="Backend and distributed systems tools" />
+  <img src="https://cdn.simpleicons.org/jsonwebtokens" height="34" alt="JWT" title="JSON Web Tokens" />
+  <img src="https://cdn.simpleicons.org/postman" height="34" alt="Postman" title="Postman" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=Qfv3fxJsK_0" target="_blank"><img src="https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=5RyUPZGETeg" target="_blank"><img src="https://img.youtube.com/vi/5RyUPZGETeg/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=BgejaZPU6dA" target="_blank"><img src="https://img.youtube.com/vi/BgejaZPU6dA/mqdefault.jpg" alt="" width="250"/></a>
+<p align="center"><sub>WebSocket · Docker Compose · cPanel</sub></p>
 
----
-
-### 🔩 Embedded System & Hardware Engineer
-
-> *Real-time system design, signal acquisition, industrial control*
-
-<p>
-  <img src="https://img.shields.io/badge/Microcontroller-Circuit%20Control-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/SingleBoardComputer-Linux%20Based-green?style=flat-square&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PLC-Industrial-F5A623?style=flat-square" />
-  <img src="https://img.shields.io/badge/Arduino-Prototyping-00979D?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/STM32-Standalone-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP32-Node-red?style=flat-square&logo=espressif&logoColor=white" />
-  <img src="https://img.shields.io/badge/LoRa-IoT-00AEEF?style=flat-square" />
-  <img src="https://img.shields.io/badge/RS--485-Wired%20Comm-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/SiPeed-Edge%20AI-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hailo-Accelerator-green?style=flat-square" />
-  <img src="https://img.shields.io/badge/Fritzing-Schematic-E62B1E?style=flat-square" />
-  <img src="https://img.shields.io/badge/KiCAD-PCB-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/SketchUp-3D%20Modelling-005F9E?style=flat-square&logo=sketchup&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kivy-UI-black?style=flat-square" />
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Qfv3fxJsK_0"><img src="https://img.youtube.com/vi/Qfv3fxJsK_0/mqdefault.jpg" alt="Backend and distributed systems video 1" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=5RyUPZGETeg"><img src="https://img.youtube.com/vi/5RyUPZGETeg/mqdefault.jpg" alt="Backend and distributed systems video 2" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=BgejaZPU6dA"><img src="https://img.youtube.com/vi/BgejaZPU6dA/mqdefault.jpg" alt="Backend and distributed systems video 3" width="250" /></a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=xxBklDEj95M" target="_blank"><img src="https://img.youtube.com/vi/xxBklDEj95M/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=LcyshfnrboA" target="_blank"><img src="https://img.youtube.com/vi/LcyshfnrboA/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=k2Xpjv19_mk" target="_blank"><img src="https://img.youtube.com/vi/k2Xpjv19_mk/mqdefault.jpg" alt="" width="250"/></a>
-
 ---
 
-### 🕶️ System Exploitation & Cyber-Physical Engineer
+### Embedded Systems and Hardware Engineer
 
-> *Computation-intensive techniques, protocol sniffing, crypto analysis, automation*
+I develop sensor-integrated and real-time systems across microcontrollers, single-board computers, industrial control, and edge accelerators. The work combines hardware–software co-design, signal acquisition, deterministic communication, PCB prototyping, and embedded AI, from early prototypes to operational sensing and control systems.
 
-<p>
-  <img src="https://img.shields.io/badge/Kali-Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailsOS-Privacy-56347C?style=flat-square&logo=Tails&logoColor=white" />
-  <img src="https://img.shields.io/badge/Onion-Tor-purple?style=flat-square&logo=Tor-Browser&logoColor=white" />
-  <img src="https://img.shields.io/badge/SSH-Tunnel-000000?style=flat-square&logo=openssh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-VPN-02B2FC?style=flat-square&logo=tailscale&logoColor=white" />
-  <img src="https://img.shields.io/badge/RustDesk-Remote-024EFF?style=flat-square&logo=RustDesk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-Capture-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/hcxdumptool-WPA-crimson?style=flat-square" />
-  <img src="https://img.shields.io/badge/tcpdump-Packet%20Analysis-lightgrey?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hashcat-BruteForce-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Threading-Multicore-red?style=flat-square" />
-  <img src="https://img.shields.io/badge/Encryption-Decryption-8B008B?style=flat-square" />
-  <img src="https://img.shields.io/badge/HomeAssistant-Automation-41BDF5?style=flat-square&logo=home-assistant&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitcoin-BTC-F7931A?style=flat-square&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Crypto%20Mining-GPU%20Rig-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dectyption-GPU%20Bruteforce-green?style=flat-square&logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NerdMiner-Solo%20Miner-F39C12?style=flat-square" />
-  <img src="https://img.shields.io/badge/BinanceFutureBot-AI%20Trader-F0B90B?style=flat-square&logo=Binance&logoColor=white" />
-  <img src="https://img.shields.io/badge/TradingView-API-131622?style=flat-square&logo=TradingView&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trezor-HW%20Wallet-5ee396?style=flat-square" />
-  <img src="https://img.shields.io/badge/Metamask-SW%20Wallet-ffa680?style=flat-square" />
-  <img src="https://img.shields.io/badge/2Miners-Pool-0d0d0d?style=flat-square" />
-  <img src="https://img.shields.io/badge/NBminer-Miner-3C3C3D?style=flat-square" />
-  <img src="https://img.shields.io/badge/NiceHash-Pool-FBC342?style=flat-square&logo=NiceHash&logoColor=white" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cmake,arduino,raspberrypi,linux" height="34" alt="Embedded systems and hardware tools" />
+  <img src="https://cdn.simpleicons.org/kicad" height="34" alt="KiCad" title="KiCad" />
+  <img src="https://cdn.simpleicons.org/platformio" height="34" alt="PlatformIO" title="PlatformIO" />
+  <img src="https://cdn.simpleicons.org/stmicroelectronics" height="34" alt="STM32" title="STM32" />
+  <img src="https://cdn.simpleicons.org/espressif" height="34" alt="ESP32" title="ESP32" />
 </p>
 
-<a href="https://www.youtube.com/watch?v=Ob8XsIZZwGw" target="_blank"><img src="https://img.youtube.com/vi/Ob8XsIZZwGw/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=Fgj1y2viBww" target="_blank"><img src="https://img.youtube.com/vi/Fgj1y2viBww/mqdefault.jpg" alt="" width="250"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=EcXLVB0F_4M" target="_blank"><img src="https://img.youtube.com/vi/EcXLVB0F_4M/mqdefault.jpg" alt="" width="250"/></a>
+<p align="center"><sub>Ninja · Microcontrollers · Single-board computers · PLC · LoRa · MQTT · CAN · Modbus · RS-485 · Oscilloscope · SiPeed · Hailo · HailoRT · Fritzing · Kivy</sub></p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=xxBklDEj95M"><img src="https://img.youtube.com/vi/xxBklDEj95M/mqdefault.jpg" alt="Embedded systems video 1" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=LcyshfnrboA"><img src="https://img.youtube.com/vi/LcyshfnrboA/mqdefault.jpg" alt="Embedded systems video 2" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=k2Xpjv19_mk"><img src="https://img.youtube.com/vi/k2Xpjv19_mk/mqdefault.jpg" alt="Embedded systems video 3" width="250" /></a>
+</p>
 
 ---
 
-### 🌿 Some aspects of life
+### Cyber-Physical Security Researcher
 
-> *"Life, Gaming, Review, Podcast, Philosophy, Meditation, Knowledge Sharing, and so on..."*
+I examine the security and resilience of connected systems through authorized research, isolated lab environments, and protocol-level analysis. My interests include network traffic inspection, secure communication, cryptographic primitives, GPU-assisted computation, and the relationship between embedded devices, distributed infrastructure, and cyber-physical risk.
 
-#### Computer OS
-  
-- Life at a glance: ![macOS](https://img.shields.io/badge/macOS-50%25-brightgreen)
-- Behind the stage: ![Linux](https://img.shields.io/badge/Linux-45%25-green)
-- Relaxing and content creation: ![Windows](https://img.shields.io/badge/Windows-5%25-yellow)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,kali,git" height="34" alt="Cyber-physical security tools" />
+  <img src="https://cdn.simpleicons.org/wireshark" height="34" alt="Wireshark" title="Wireshark" />
+  <img src="https://cdn.simpleicons.org/torbrowser" height="34" alt="Tor Browser" title="Tor Browser" />
+  <img src="https://nmap.org/images/nmap-project-logo.svg" height="34" alt="Nmap Project" title="Nmap Project" />
+</p>
 
-#### Mobile Phone OS
+<p align="center"><sub>Isolated Lab Environments · TailsOS · SSH Tunnels · tcpdump · hcxdumptool · Hashcat · Threading · Encryption · Decryption · GPU Brute Force · Crypto Analysis</sub></p>
 
-- Formal use: ![iOS](https://img.shields.io/badge/iOS-60%25-brightgreen)
-- Functional use: ![Android](https://img.shields.io/badge/Android-40%25-green)
-
-<a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s" target="_blank"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="" width="180"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=JlHysbqlGp8" target="_blank"><img src="https://img.youtube.com/vi/JlHysbqlGp8/mqdefault.jpg" alt="" width="180"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=kmhRIhEZbWo" target="_blank"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="" width="180"/></a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/watch?v=twP7U5Hw0FA" target="_blank"><img src="https://img.youtube.com/vi/twP7U5Hw0FA/mqdefault.jpg" alt="" width="180"/></a>
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Ob8XsIZZwGw"><img src="https://img.youtube.com/vi/Ob8XsIZZwGw/mqdefault.jpg" alt="Cyber-physical security video 1" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=Fgj1y2viBww"><img src="https://img.youtube.com/vi/Fgj1y2viBww/mqdefault.jpg" alt="Cyber-physical security video 2" width="250" /></a>
+  <a href="https://www.youtube.com/watch?v=EcXLVB0F_4M"><img src="https://img.youtube.com/vi/EcXLVB0F_4M/mqdefault.jpg" alt="Cyber-physical security video 3" width="250" /></a>
+</p>
 
 ---
 
-## ✉️ Contact & Social Platforms
+### Self-Hosted and Independent Systems
 
-> 🔬 *"I am currently working on PhD research, so my response may be slow."*
+I maintain a small independent infrastructure for private services, remote access, observability, automation, and decentralized-systems experimentation. This space is separate from my security research: it is where I explore practical self-hosting, home automation, personal data services, ad filtering, and Bitcoin or Lightning infrastructure.
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cloudflare,raspberrypi,ubuntu" height="34" alt="Self-hosted infrastructure and independent systems tools" />
+  <img src="https://cdn.simpleicons.org/bitcoin" height="34" alt="Bitcoin" title="Bitcoin" />
+  <img src="https://cdn.simpleicons.org/homeassistant" height="34" alt="Home Assistant" title="Home Assistant" />
+  <img src="https://cdn.simpleicons.org/umbrel" height="34" alt="UmbrelOS" title="UmbrelOS" />
+  <img src="https://cdn.simpleicons.org/tailscale" height="34" alt="Tailscale" title="Tailscale" />
+  <img src="https://cdn.simpleicons.org/pihole" height="34" alt="Pi-hole" title="Pi-hole" />
+  <img src="https://cdn.simpleicons.org/trezor" height="34" alt="Trezor" title="Trezor" />
+  <img src="https://github.com/MetaMask.png?size=64" height="34" alt="MetaMask" title="MetaMask" />
+</p>
+
+<p align="center"><sub>RustDesk · Tmux · Herdr · Bitcoin Node · Lightning Node · Crypto Mining · GPU Rig · NerdMiner · 2Miners · NBminer · NiceHash · Binance Future Bot · TradingView API</sub></p>
+
+---
+
+## Beyond engineering
+
+My work is balanced by gaming, media reviews, podcasts, philosophy, meditation, and knowledge sharing. I also work across several operating systems, so this profile intentionally shows them in order from most frequently used to least frequently used.
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/apple" height="34" alt="macOS" title="macOS" />
+  <span>→</span>
+  <img src="https://cdn.simpleicons.org/ubuntu" height="34" alt="Ubuntu" title="Ubuntu" />
+  <span>→</span>
+  <img src="https://cdn.simpleicons.org/raspberrypi" height="34" alt="Raspberry Pi OS" title="Raspberry Pi OS" />
+  <span>→</span>
+  <img src="https://cdn.simpleicons.org/kalilinux" height="34" alt="Kali Linux" title="Kali Linux" />
+  <span>→</span>
+  <img src="https://skillicons.dev/icons?i=windows" height="34" alt="Windows" title="Windows" />
+  <span>→</span>
+  <img src="https://cdn.simpleicons.org/tails" height="34" alt="Tails" title="Tails" />
+  <span>→</span>
+  <img src="https://cdn.simpleicons.org/debian" height="34" alt="Debian" title="Debian" />
+  <span>→</span>
+  <img src="https://cdn.simpleicons.org/linuxmint" height="34" alt="Linux Mint" title="Linux Mint" />
+</p>
+
+<p align="center"><sub>Most frequently used → least frequently used · Other Linux distributions are used as needed.</sub></p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=Fk3S4MaNl-s"><img src="https://img.youtube.com/vi/Fk3S4MaNl-s/mqdefault.jpg" alt="Personal video 1" width="180" /></a>
+  <a href="https://www.youtube.com/watch?v=JlHysbqlGp8"><img src="https://img.youtube.com/vi/JlHysbqlGp8/mqdefault.jpg" alt="Personal video 2" width="180" /></a>
+  <a href="https://www.youtube.com/watch?v=kmhRIhEZbWo"><img src="https://img.youtube.com/vi/kmhRIhEZbWo/mqdefault.jpg" alt="Personal video 3" width="180" /></a>
+  <a href="https://www.youtube.com/watch?v=twP7U5Hw0FA"><img src="https://img.youtube.com/vi/twP7U5Hw0FA/mqdefault.jpg" alt="Personal video 4" width="180" /></a>
+</p>
+
+---
+
+## Contact and public channels
+
+I am currently focused on PhD research, so replies may take longer than usual.
 
 <p align="left">
-  <a href="https://github.com/geeksloth" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.youtube.com/@geeksloth" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://shopee.co.th/geeksloth" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopee_logo.svg" alt="Shopee" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://line.me/R/ti/p/@952whtrd" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="LINE Official" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/GeekSloth" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" height="60" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="http://geekslothmgzrh2sie5hvgp45uvjkylid3yyyj245zpmxf6h3r7pk3id.onion" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg" alt="Darkweb (Tor)" height="60" />
-  </a>
+  <a href="https://github.com/geeksloth"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub" height="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.youtube.com/@geeksloth"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube" height="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://shopee.co.th/geeksloth"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Shopee_logo.svg" alt="Shopee" height="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://line.me/R/ti/p/@952whtrd"><img src="https://upload.wikimedia.org/wikipedia/commons/4/41/LINE_logo.svg" alt="LINE Official" height="48" /></a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/GeekSloth"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" alt="Facebook" height="48" /></a>
+  &nbsp;&nbsp;
+  <a href="http://geekslothmgzrh2sie5hvgp45uvjkylid3yyyj245zpmxf6h3r7pk3id.onion"><img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Tor-logo-2011-flat.svg" alt="Tor site" height="48" /></a>
 </p>
 
 ---
 
-### 🕵️ In case you are interested
+### A curiosity
 
-> *Who is the child in this image?*
+If you are interested in visual perception and image interpretation, explore this project:
 
-<a href="https://github.com/geeksloth/Who-is-the-child-in-this-image" target="_blank"><img src="https://github.com/geeksloth/Who-is-the-child-in-this-image/blob/main/static/figure1-180-degree-rotated.jpg" alt="" width="250"/></a>
+<a href="https://github.com/geeksloth/Who-is-the-child-in-this-image"><img src="https://raw.githubusercontent.com/geeksloth/Who-is-the-child-in-this-image/main/static/figure1-180-degree-rotated.jpg" alt="Who is the child in this image?" width="250" /></a>
